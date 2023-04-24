@@ -1,5 +1,5 @@
-# Etch-A-Sketch
+# Etch-A-Sketch Project
 Web - Paint
 
 # Live Demo
-🔗[Etch-A-Sketch](https://juanbraco.github.io/Etch-A-Sketch/)
+🔗[Etch](https://juanbraco.github.io/Etch-A-Sketch/)

@@ -2,4 +2,4 @@
 Web - Paint
 
 # Live Demo
-🔗[Etch](https://juanbraco.github.io/Etch-A-Sketch/)
+🔗[Etch-a-sketch](https://juanbraco.github.io/Etch-A-Sketch/)
